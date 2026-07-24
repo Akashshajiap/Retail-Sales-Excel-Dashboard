@@ -94,3 +94,6 @@ Leadership needed a **single, at-a-glance dashboard** — not a raw data dump �
 - ✅ **Fully dynamic** — refreshing the underlying PivotTable updates every chart and KPI instantly
 - ✅ **8,680-row transactional dataset** spanning 4 years (2023–2026) as the analytical foundation
 - ✅ **Consistent, presentation-ready design** with a branded color palette suitable for stakeholder reporting
+
+
+- <img width="1767" height="750" alt="Screenshot 2026-07-02 113332" src="https://github.com/user-attachments/assets/41c88e2d-3ed0-46e7-b727-98f48c7fcc61" />
